@@ -23,7 +23,7 @@ There are two solutions:
 
 # How to submit proposal? 
 - Step 1: fork this repository
-- Step 2: write your proposal
+- Step 2: write your proposal in [proposal](./proposal/) directory
 - Step 3: submit your pr
 - Step 4: BtcName community review  
 
