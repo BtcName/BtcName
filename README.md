@@ -21,6 +21,12 @@ There are two solutions:
 - [Ordinals Primary Name Protocol (Solution A, Draft)](https://docs.btcname.id/docs/ordinals-primary-name-protocol/ordinals-primary-name-protocol-solution-a-draft)
 - [Ordinals Primary Name Protocol (Solution B, Draft)](https://docs.btcname.id/docs/ordinals-primary-name-protocol/ordinals-primary-name-protocol-solution-b-draft)
 
+# How to submit proposal? 
+- Step 1: fork this repository
+- Step 2: write your proposal
+- Step 3: submit your pr
+- Step 4: BtcName community review  
+
 # BtcName Links
 ## Docs
 - [https://docs.btcname.id/](https://docs.btcname.id/)
