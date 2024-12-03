@@ -12,6 +12,30 @@
     }
   },
   {
+    "id": "83f00530aaa185f1effd0c823a419b88a9629efead012afbc6665019c009ba81i0",
+    "meta": {
+      "name": "iii.btc",
+      "attributes": [
+        {
+          "trait_type": "3L",
+          "value": "AAA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "656ee5a5755a17c90cb4fb7744f4368f914c5ce4c1618398dde83c027b682b70i0",
+    "meta": {
+      "name": "mmm.btc",
+      "attributes": [
+        {
+          "trait_type": "3L",
+          "value": "AAA"
+        }
+      ]
+    }
+  },
+  {
     "id": "6fd89b794dfea35b816bf4aceeb3791c5689bdbdc9d548c7357f8be55b9ca537i0",
     "meta": {
       "name": "xxx.btc",
