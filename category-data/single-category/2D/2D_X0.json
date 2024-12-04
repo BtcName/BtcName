@@ -1,0 +1,122 @@
+[
+  {
+    "id": "5e00fdc99368fb1bf69314d4ba8eeed9c198caf9a063832faa282f52c05e77dai0",
+    "meta": {
+      "name": "00.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "50e1b9728f5c83d08ee9c6178858cad6a79cfc292a210c861cb34942f60b1f86i0",
+    "meta": {
+      "name": "10.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7a4969e12bd47726eaa8e45a1e0940a34ef1118b3544c1d0acba623eee951726i0",
+    "meta": {
+      "name": "40.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "036952ec32dac01c8dfa1b8d2735f8312c81821c811364babe81906fbb11d638i0",
+    "meta": {
+      "name": "30.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12fdf288f7f25f565e6d65279bc5cc6c029079595b2f963b687b2a66030b6aaai0",
+    "meta": {
+      "name": "20.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "132adc75cd1ad76d7f048fca58bce7d71d3e2869bd3dfae9d0edc94c09b2ca12i0",
+    "meta": {
+      "name": "80.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cc1a1053654873f869a41d942dc1f369016a821a70db8ff63cca9c3e212a072i0",
+    "meta": {
+      "name": "70.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "52afe713384b3a63252328d1f6508963af792624ba7fbb7da37fd284f197ee94i0",
+    "meta": {
+      "name": "50.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "203cc2c1e337ce907341d6f1ba5e3905e23325c16f3a114a8ddb16d6f3d2039ci0",
+    "meta": {
+      "name": "60.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "24d5bd3144ec7771e72f761890e868a2ea17b3dbe0fe4a2332dc8b440aa4d57ei0",
+    "meta": {
+      "name": "90.btc",
+      "attributes": [
+        {
+          "trait_type": "2D",
+          "value": "X0"
+        }
+      ]
+    }
+  }
+]
