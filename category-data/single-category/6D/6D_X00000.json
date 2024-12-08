@@ -1,0 +1,122 @@
+[
+  {
+    "id": "528a4f895c39f5d01d457a196ac3efa2b5f461c9ed8b8ba5b261e6de557283f5i0",
+    "meta": {
+      "name": "000000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "29fb9fb28a0c0c55d922484dca9ef5e3c036ef6d0790d476e3236d30009067b1i0",
+    "meta": {
+      "name": "100000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f2f34ac4d0c6c72d4fd1c9b1685eaa85b7b1265ec27aa4da319b36ddcd308210i0",
+    "meta": {
+      "name": "200000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3891b2c5b8abb30f58f404804c3af850eaa3b74f67619ff197837e354247a16ei0",
+    "meta": {
+      "name": "300000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "190a1234922b5c6a8b42dd7406d9169ad4e380238dc89a4f1229c2eb735640e2i0",
+    "meta": {
+      "name": "400000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fba2544b9f4b24515bd4a5aa4135704babc73d148704f0b9423909a0021d5104i0",
+    "meta": {
+      "name": "500000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fadd8262623ede7e492ac94816296b105a6d911e74141f0b9d63e96ba8fb8e45i0",
+    "meta": {
+      "name": "600000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3bb3a433af1ee0bf8bd50ca7ed0aa3921ce714830e5e28eeab94e79022ac3e57i0",
+    "meta": {
+      "name": "700000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f781826f9f298a9e499c93102cabfbdb072733398ca51fd5c62cb4571bd40e9ei0",
+    "meta": {
+      "name": "800000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "09b64acb50f1d1ae72820f528da5c33d050622ad1fdf0104c6d0cb3e8f634aaai0",
+    "meta": {
+      "name": "900000.btc",
+      "attributes": [
+        {
+          "trait_type": "6D",
+          "value": "X00000"
+        }
+      ]
+    }
+  }
+]
